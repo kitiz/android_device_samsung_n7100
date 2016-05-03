@@ -313,7 +313,7 @@
     <!-- If supported, are dreams enabled? (by default) -->
     <bool name="config_dreamsEnabledByDefault">false</bool>
 
-    <!-- Enable doze powersaving
+     <!-- Enable doze powersaving -->
     <bool name="config_enableAutoPowerModes">true</bool>
 
     <!-- The RadioAccessFamilies supported by the device.
